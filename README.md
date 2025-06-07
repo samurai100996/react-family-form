@@ -1,4 +1,18 @@
-# React + Vite
+# React-Family-Form
+
+--------------------------------------------------------------------------------------------------------------------------------
+first clone this these steps
+- npm i
+- npm i firebase
+- npm i framer-motion
+- npm i react-router-dom
+- npm i tailwindcss @tailwindcss/vite
+  
+
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
