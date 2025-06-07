@@ -1,12 +1,22 @@
 # React-Family-Form
 
 --------------------------------------------------------------------------------------------------------------------------------
-First clone then do these steps
+First, clone, then do these steps
 - npm i
 - npm i firebase
 - npm i framer-motion
 - npm i react-router-dom
 - npm i tailwindcss @tailwindcss/vite
+
+And do create a .env file and store the api key and all in it 
+for example..
+VITE_FIREBASE_API_KEY=your-api-key
+VITE_FIREBASE_AUTH_DOMAIN=domainauth.firebaseapp.com
+VITE_FIREBASE_PROJECT_ID=your-projectid
+VITE_FIREBASE_STORAGE_BUCKET=projectid.appspot.com
+VITE_FIREBASE_MESSAGING_SENDER_ID=xxxxxxxxxx
+VITE_FIREBASE_APP_ID=xxxxxxxxxxxxxxxxxxxxxxxxxxx
+VITE_FIREBASE_MEASUREMENT_ID=xxxxxxxxx
   
 
 
