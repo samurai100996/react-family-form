@@ -1,7 +1,7 @@
 # React-Family-Form
 
 --------------------------------------------------------------------------------------------------------------------------------
-first clone this these steps
+First clone then do these steps
 - npm i
 - npm i firebase
 - npm i framer-motion
